@@ -1,2 +1,3 @@
 # hello_world
-test setup
+
+Prepare for some mindblowing code to be commited to this repository.
